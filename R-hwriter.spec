@@ -4,7 +4,7 @@
 #
 Name     : R-hwriter
 Version  : 1.3.2.1
-Release  : 37
+Release  : 38
 URL      : https://cran.r-project.org/src/contrib/hwriter_1.3.2.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/hwriter_1.3.2.1.tar.gz
 Summary  : HTML Writer - Outputs R Objects in HTML Format
